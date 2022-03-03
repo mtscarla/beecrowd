@@ -1,4 +1,2 @@
-var input = require('fs').readFileSync('/dev/stdin', 'utf8');
-var lines = input.split('\n');
-
-var
+language = "node"
+run = "node 1012.js"
